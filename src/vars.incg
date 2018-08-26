@@ -1,0 +1,23 @@
+if &mientero >= #7 then {
+    int &i=#0;
+int &i=#0;
+int &i=#0;
+int &i=#0;
+int &i=#0;
+}
+else {
+int &i=#0;
+int &i=#0;
+int &i=#0;
+        say("diferentes");
+}
+while &i <= #5 then {
+        say("diferentes");
+            &i=&i+1;
+        }
+for (int &i = #0;| &i <= #8 | &i=&i+1;){
+    say("diferentes");
+    str &decir = "decir_num_:";
+    int &enmt=#4;
+
+}

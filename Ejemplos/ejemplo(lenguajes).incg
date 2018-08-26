@@ -1,0 +1,26 @@
+fun str &funcion(int &id,str &cad){//UNA FUNCION//
+    int &mientero = #4 + #5 +&id;
+    str &micad = "mi cadena es : "+&cad;
+    
+    
+    if &mientero >= #7 then {
+        int &i=#0;
+        while &i <= #5 then {
+            say("mi cadena"+&i);
+            &i=&i+1;
+        }
+    }
+
+    ret &micad;
+}
+
+for (int &i = #0 ;| &i <= #8 | &i=&i+1;){
+    str &decir = "decir num :";
+    say(""+&decir+""+&i);
+}
+
+int &miid=#4;
+int &misuma=#4+$5.0+#2;
+str &micad2="mi cadena";
+bl &bool = False;
+flt &flot = ;

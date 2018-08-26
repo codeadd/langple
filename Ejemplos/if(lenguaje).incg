@@ -1,0 +1,7 @@
+//ASI SE CREA UN IF//
+if #5 == #6 then {  //Recordar que el then y cualquier palabra reservada esperan un espacio //
+    say("iguales");
+}else{
+    say("diferentes");
+
+}

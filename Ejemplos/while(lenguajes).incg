@@ -1,0 +1,4 @@
+int &var = #5;
+str &cad = "mi cadena";
+flt &flot = $7.0;
+bl &bool = true;

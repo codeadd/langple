@@ -1,0 +1,4 @@
+fun int &funcion (){//ASI SE CREA UN FUN //
+    str &id = "cadena";
+    ret #0;
+}

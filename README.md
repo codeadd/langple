@@ -17,22 +17,22 @@ Automata para el análisis léxico
 
 Creación de variables y tipos de datos.
 
-![asig_imagen](EjImg\asig_imagen.png)
+![asig_imagen](EjImg/asig_imagen.png)
 
 Ejemplo de un condicional if
 
-![if_imagen](EjImg\if_imagen.png)
+![if_imagen](EjImg/if_imagen.png)
 
 Ejemplo de un ciclo for
 
-![for_imagen](EjImg\for_imagen.png)
+![for_imagen](EjImg/for_imagen.png)
 
 Creación de un ciclo while
 
-![while_imagen](EjImg\while_imagen.png)
+![while_imagen](EjImg/while_imagen.png)
 
 Creación de una función.
 
-![fun_imagen](EjImg\fun_imagen.png)
+![fun_imagen](EjImg/fun_imagen.png)
 
-Ejemplo completo.![ejem_imagen](EjImg\ejem_imagen.png)
+Ejemplo completo.![ejem_imagen](EjImg/ejem_imagen.png)
